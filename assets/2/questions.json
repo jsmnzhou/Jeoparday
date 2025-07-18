@@ -1,0 +1,113 @@
+{"movies": {
+    "200": {
+        "question": "This animated movie features the heroes Peni, Gwen, Noir, Peter, and Ham.",
+        "answer": "What is Spider-man: Into the Spider-verse?"
+    },
+    "400": {
+        "question": "The story of an FBI agent chasing a con-man who disguises himself as a lawyer, pilot, and doctor.",
+        "answer": "What is Catch Me If You Can?"
+    },
+    "600": {
+        "question": "A 1975 comedy that shows King Arthur and the Knights of the Round Table’s search for the partial namesake of the film.",
+        "answer": "What is Monty Python and the Holy Grail?"
+    },
+    "800": {
+        "question": "This Wes Anderson film follows Mr. Korda as he tries to plug “The Gap”.",
+        "answer": "What is The Phoenician Scheme?"
+    },
+    "1000": {
+        "question": "The name of the main robot character in the movie Real Steel.",
+        "answer": "Who is Atom?"
+    }
+  },
+  "memes": {
+    "200": {
+        "question": "The haircut that is typically associated with Fortnite streamer Ninja within internet culture.",
+        "answer": "What is low-taper fade?"
+    },
+    "400": {
+        "question": "The caption that is commonly paired with this Kingdom Hearts screenshot.",
+        "file": "assets/2/memes/memes_400.png",
+        "answer": "What is “hollup… Let him cook”?"
+    },
+    "600": {
+        "question": "The virtual singer whose face is often seen photoshopped onto a pear.",
+        "answer": "Who is Kasane Teto?"
+    },
+    "800": {
+        "question": "The name of the animatronic featured in the song with lines such as “I want some ice-cream” and “It was difficult to put the pieces together”.",
+        "answer": "What is The Mimic?"
+    },
+    "1000": {
+        "question": "The name of this infamous original character.",
+        "file" : "assets/2/memes/memes_1000.png",
+        "answer": "What is Coldsteel the Hedgeheg?"
+    }
+  },
+  "anime openings": {
+    "200": {
+        "question": "assets/2/animeopenings/animeop200.mp3",
+        "answer": "What is Fullmetal Alchemist: Brotherhood"
+    },
+    "400": {
+        "question": "assets/2/animeopenings/animeop400.mp3",
+        "answer": "What is Apothecary Diaries?"
+    },
+    "600": {
+        "question": "assets/2/animeopenings/animeop600.mp3",
+        "answer": "What is Chobits?"
+    },
+    "800": {
+        "question": "assets/2/animeopenings/animeop800.mp3",
+        "answer": "What is Cyberpunk: Edgerunners?"
+    },
+    "1000": {
+        "question": "assets/2/animeopenings/animeop100.mp3",
+        "answer": "What is Ace of the Diamond?"
+    }
+  },
+  "quotes": {
+    "200": {
+        "question": "He is commonly credited for saying “Float like a butterfly, sting like a bee.”",
+        "answer": "Who is Muhammad Ali?"
+    },
+    "400": {
+        "question": "This anime has an opening that repeats the phrase “We are fighting dreamers.”",
+        "answer": "What is Naruto?"
+    },
+    "600": {
+        "question": "The cartoon character who once said “sucking at something is the first step to being sorta good at something.”",
+        "answer": "Who is Jake the Dog?"
+    },
+    "800": {
+        "question": "“You cannot kill me in a way that matters” is from a post about mushrooms on this site.",
+        "answer": "What is Tumblr?"
+    },
+    "1000": {
+        "question": "The poet famous for writing “Rose is a rose is a rose is a rose.”",
+        "answer": "Who is Gertrude Stein?"
+    }
+  },
+  "comics": {
+    "200": {
+        "question": "This hero often chants “azarath metrion zinthos” to use their powers.",
+        "answer": "Who is Raven?"
+    },
+    "400": {
+        "question": "Oscorp is often an important company for this hero’s stories.",
+        "answer": "Who is Spider-man?"
+    },
+    "600": {
+        "question": "Mad Hatter, Hugo Strange, and Firefly are all recurring villains for this hero.",
+        "answer": "Who is Batman?"
+    },
+    "800": {
+        "question": "The speedster Pietro Maximoff is also known by this hero name.",
+        "answer": "What is Quicksilver?"
+    },
+    "1000": {
+        "question": "This independent comic character also appears in the fighting game Injustice 2.",
+        "answer": "Who is Hellboy?"
+    }
+  }
+}

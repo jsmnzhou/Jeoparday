@@ -1,0 +1,111 @@
+{"anime": {
+    "200": {
+        "question": "The name of the girl which completes the following anime title: Serial Experiments [blank].",
+        "answer": "Who is Lain?"
+    },
+    "400": {
+        "question": "This food or drink item is the only human food or drink that ghouls can consume in Tokyo Ghoul.",
+        "answer": "What is coffee?"
+    },
+    "600": {
+        "question": "The spell that Frieren claims as her favourite spell in the anime Frieren: Beyond Journey’s End.",
+        "answer": "What is the spell that makes a field of flowers?"
+    },
+    "800": {
+        "question": "Sister of Nijika Ijichi, this person works as the owner and manager of music club “Starry.”",
+        "answer": "Who is Seika Ijichi?"
+    },
+    "1000": {
+        "question": "The onomatopoeia for Koro-sensei’s laugh in the Assassination Classroom sub.",
+        "answer": "What is “nuruhuhuhu”?"
+    }
+  },
+  "video games": {
+    "200": {
+        "question": "Delcatty, Miltank and Flamigo are all creatures from this franchise.",
+        "answer": "What is Pokemon?"
+    },
+    "400": {
+        "question": "This boomer-shooter from 1993 has you fighting demons and undead to save the Earth from the apocalypse.",
+        "answer": "What is Doom?"
+    },
+    "600": {
+        "question": "The main group opposing the assassins in the Assassin’s Creed franchise.",
+        "answer": "What are the Templars?"
+    },
+    "800": {
+        "question": "In Persona 5, the Phantom Thieves get turned into this animal while at Shido’s Palace.",
+        "answer": "What are mice?"
+    },
+    "1000": {
+        "question": "The names of the two anthropomorphic drum avatars in Taiko no Tatsujin.",
+        "answer": "What is Don and Katsu?"
+    }
+  },
+  "music": {
+    "200": {
+        "question": "The singer that began their career on the show ‘Victorious.’",
+        "answer": "Who is Ariana Grande?"
+    },
+    "400": {
+        "question": "Developed by Crypton Future Media, this voice bank is code named CV01.",
+        "answer": "Who is Hatsune Miku?"
+    },
+    "600": {
+        "question": "The musician whose real name is Stefani Joanne Germanotta.",
+        "answer": "Who is Lady Gaga?"
+    },
+    "800": {
+        "question": "The first opening theme to the second adaptation of the manga by Hiromu Arakawa.",
+        "answer": "What is Again?"
+    },
+    "1000": {
+        "question": "The title of a speculated unreleased album that was later used as the title of a Taylor Swift song.",
+        "answer": "What is Karma?"
+    }
+  },
+  "video game\n screenshots": {
+    "200": {
+        "question": "assets/1/vgscreenshots/vg200.png",
+        "answer": "What is Fortnite?"
+    },
+    "400": {
+        "question": "assets/1/vgscreenshots/vg400.png",
+        "answer": "What is Smash Bros Ultimate?"
+    },
+    "600": {
+        "question": "assets/1/vgscreenshots/vg600.png",
+        "answer": "What is Yakuza 0?"
+    },
+    "800": {
+        "question": "assets/1/vgscreenshots/vg800.png",
+        "answer": "What is Sekiro?"
+    },
+    "1000": {
+        "question": "assets/1/vgscreenshots/vg1000.png",
+        "answer": "What is Outer Wilds?"
+    }
+  },
+  "country flags": {
+    "200": {
+        "question": "assets/1/flags/flag200.png",
+        "answer": "What is South Korea?"
+    },
+    "400": {
+        "question": "assets/1/flags/flag400.png",
+        "answer": "What is Tanzania?"
+    },
+    "600": {
+        "question": "assets/1/flags/flag600.png",
+        "answer": "What is Chile?"
+    },
+    "800": {
+        "question": "assets/1/flags/flag800.png",
+        "answer": "What is Romania?"
+    },
+    "1000": {
+        "question": "assets/1/flags/flag1000.png",
+        "answer": "What is Antigua and Barbuda?"
+    }
+  }
+}

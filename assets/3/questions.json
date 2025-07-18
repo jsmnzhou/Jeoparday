@@ -1,0 +1,111 @@
+{"movie/video games\n soundtracks": {
+    "200": {
+        "question": "assets/3/soundtracks/soundtrac200.mp3",
+        "answer": "What is Undertale?"
+    },
+    "400": {
+        "question": "assets/3/soundtracks/soundtrac400.mp3",
+        "answer": "What is Oppenheimer?"
+    },
+    "600": {
+        "question": "assets/3/soundtracks/soundtrac600.mp3",
+        "answer": "What is The Wizard of Oz?"
+    },
+    "800": {
+        "question": "assets/3/soundtracks/soundtrac800.mp3",
+        "answer": "What is Dark Souls 3?"
+    },
+    "1000": {
+        "question": "assets/3/soundtracks/soundtrac100.mp3",
+        "answer": "What is Resident Evil 4 Remake?"
+    }
+  },
+  "board games": {
+    "200": {
+        "question": "“Colonist” is an online adaptation of this famous board game.",
+        "answer": "What is Settlers of Catan?"
+    },
+    "400": {
+        "question": "Collecting coloured tiles is the main objective of this board game, which is itself named after a colour.",
+        "answer": "What is Azul?"
+    },
+    "600": {
+        "question": "This asymmetrical board game has the factions Marquise de Cat and the Woodland Alliance.",
+        "answer": "What is Root?"
+    },
+    "800": {
+        "question": "The Poisoner, Empath, Imp, and Ravenkeeper are all roles in this hidden role game.",
+        "answer": "What is Blood on the Clocktower?"
+    },
+    "1000": {
+        "question": "Exploring a haunted house before the “haunt” starts is this game’s main gameplay loop.",
+        "answer": "What is Betrayal at House on the Hill?"
+    }
+  },
+  "miscellaneous": {
+    "200": {
+        "question": "Occipital, navicular, and scapula are all specific types of this body part.",
+        "answer": "What are bones?"
+    },
+    "400": {
+        "question": "The puffy egg dessert that is based on the French word for “blow”.",
+        "answer": "What is soufflé?"
+    },
+    "600": {
+        "question": "The Australian Prime Minister that disappeared while spearfishing in Victoria.",
+        "answer": "Who is Harold Holt?"
+    },
+    "800": {
+        "question": "Air flares, 6 Step, and Indian Step are all moves associated with this dance.",
+        "answer": "What is breaking/breakdancing?"
+    },
+    "1000": {
+        "question": "Nicknamed “The Beard”, this basketball player is currently playing for the LA Clippers.",
+        "answer": "Who is James Harden?"
+    }
+  },
+  "content creators": {
+    "200": {
+        "question": "Most videos uploaded by this Irish YouTuber start with a fake high five to the camera.",
+        "answer": "Who is Jacksepticeye?"
+    },
+    "400": {
+        "question": "Creator “georainbolt” is famous for being very good at this game.",
+        "answer": "What is GeoGuessr?"
+    },
+    "600": {
+        "question": "This creator was previously the Pokemon World Champion and has a name that sounds like an animal.",
+        "answer": "Who is WolfeyVGC/Wolfe Glick?"
+    },
+    "800": {
+        "question": "This group of anime podcasters are known for their Youtube Specials that include drifting, cycling, cooking, road-trips, and chess.",
+        "answer": "What is Trash Taste?"
+    },
+    "1000": {
+        "question": "This creator beat the FromSoftware game Sekiro using only a dance pad.",
+        "answer": "Who is LilAggy?"
+    }
+  },
+  "guess the character": {
+    "200": {
+        "question": "assets/3/characters/characters200.png",
+        "answer": "Who are Patrick, Spongebob and Squidward?"
+    },
+    "400": {
+        "question": "assets/3/characters/characters400.png",
+        "answer": "Who are Link and Zelda?"
+    },
+    "600": {
+        "question": "assets/3/characters/characters600.png",
+        "answer": "Who are Ryu and Ken?"
+    },
+    "800": {
+        "question": "assets/3/characters/characters800.png",
+        "answer": "Who are WALL-E and EVE?"
+    },
+    "1000": {
+        "question": "assets/3/characters/characters1000.png",
+        "answer": "Who are Kermit and Miss Piggy?"
+    }
+  }
+}
